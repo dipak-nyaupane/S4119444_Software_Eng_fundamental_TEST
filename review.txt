@@ -1,0 +1,29 @@
+client: The client had a positive experience with the product.
+optometrist: The optometrist suggested regular checkups for better vision.
+client: The client appreciated the fast service.
+optometrist: The optometrist suggested a follow-up appointment.
+client: The client mentioned the product was affordable.
+client: The client appreciated the fast service.
+optometrist: The optometrist suggested a follow-up appointment.
+client: The client mentioned the product was affordable.
+optometrist: The optometrist recommended annual eye tests.
+client: The client appreciated the fast service.
+optometrist: The optometrist suggested a follow-up appointment.
+client: The client mentioned the product was affordable.
+optometrist: The optometrist recommended annual eye tests.
+client: The service provided was excellent and quick.
+client: The client expressed their satisfaction with the quality of the eyewear and service, mentioning they will return soon.
+client: The client appreciated the fast service.
+optometrist: The optometrist suggested a follow-up appointment.
+client: The client mentioned the product was affordable.
+client: The client had a positive experience with the product.
+optometrist: The optometrist suggested regular checkups for better vision.
+client: The service provided was excellent and quick.
+client: The client expressed their satisfaction with the quality of the eyewear and service, mentioning they will return soon.
+client: The client appreciated the fast service.
+optometrist: The optometrist suggested a follow-up appointment.
+client: The client mentioned the product was affordable.
+client: The client appreciated the fast service.
+optometrist: The optometrist suggested a follow-up appointment.
+client: The client mentioned the product was affordable.
+optometrist: The optometrist recommended annual eye tests.
